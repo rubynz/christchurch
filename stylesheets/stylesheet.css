@@ -98,7 +98,7 @@ header h2 {
   max-width: 100%;
 }
 
-#downloads {
+#comms {
   margin-bottom: 40px;
 }
 
@@ -152,16 +152,16 @@ a.button span {
   height: 23px;
 }
 
-#download-zip span {
+#mailing-list span {
   background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
 }
-#download-tar-gz span {
+#irc-chat span {
   background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
 }
-#view-on-github span {
+#twitter span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
-#view-on-github {
+#twitter {
   margin-right: 0;
 }
 
