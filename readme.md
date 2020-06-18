@@ -1,3 +1,7 @@
 # The Christchurch Ruby website!
 
-I'm sure we'll probably have more about this later.
+Currently a redirect to the meetup.com page.
+
+# Where to find us
+
+Meet us in our next meetup (https://www.meetup.com/Christchurch-Ruby-Group/) or join #christchurch in https://slack.ruby.nz/ .
