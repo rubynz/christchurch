@@ -1,0 +1,40 @@
+#!/usr/bin/env ruby
+#
+# A simple script to import meetup graphql json into the _events directory.
+#
+require 'json'
+require 'time'
+require 'yaml'
+
+# Parse JSON file from Argv
+meetup_events = JSON.parse(ARGF.read)
+
+# Create a new file for each event
+meetup_events.dig('data', 'groupByUrlname', 'pastEvents', 'edges').each do |edge|
+  datetime = Time.parse(edge.dig('node', 'dateTime'))
+  year = datetime.strftime('%Y')
+  date = datetime.strftime('%Y-%m-%d')
+  time = datetime.strftime('%-l:%M%P') # Get time as e.g. 7:30pm
+
+  title = edge.dig('node', 'title').gsub('Monthly Meetup: ', '').strip
+  description = edge.dig('node', 'description')
+  location = edge.dig('node', 'venue').slice('name', 'address', 'city').values.compact.join(', ')
+
+  frontmatter = {
+    'location' => location,
+    'time' => time,
+    'title' => title
+  }.to_yaml
+
+  # Make directory if it doesn't exist
+  directory = "_events/#{year}"
+  Dir.mkdir(directory) unless File.directory?(directory)
+  filename = "#{directory}/#{date}-meetup.md"
+
+  File.write(filename, <<~FILE)
+    #{frontmatter}
+    ---
+
+    #{description}
+  FILE
+end

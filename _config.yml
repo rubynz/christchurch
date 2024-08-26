@@ -1,0 +1,17 @@
+future: true
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+
+exclude:
+  - CNAME
+  - readme.md
+  - meetup_import

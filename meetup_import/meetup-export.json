@@ -1,0 +1,1642 @@
+{
+  "data": {
+    "groupByUrlname": {
+      "pastEvents": {
+        "edges": [
+          {
+            "node": {
+              "title": "Monthly Meetup: Turbo Native — from Rails app to app store in a week*",
+              "description": "This month we have Dan Lawler bringing us up to speed on one of the next-generation Rails features. Specifically, going from Rails app to app store in a week.\\*\n\nFrom the hotwired docs:\n\n\"Turbo Native for iOS provides the tooling to wrap your Turbo-enabled web app in a native iOS shell. It manages a single WKWebView instance across multiple view controllers, giving you native navigation UI with all the client-side performance benefits of Turbo. Turbo Native for Android provides the same kind of tooling, managing a single WebView instance across multiple Fragment destinations.\"\n\n*\\* your mileage may vary*\n\nSee you there!",
+              "dateTime": "2024-08-15T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Get Gud (at Git)",
+              "description": "This month we have Ashton Moore giving us the low-down on one of the most commonly used tools in a developer's tool-kit. He writes:\n\n\"Git is a tool we all know (and possibly love), but let’s be honest - it has a tendency to fade into the background in our day-to-day work. In this talk, I’d like to put a spotlight on git, show that there’s more to it than just add/commit/push, and motivate *why* you should get gud at git. I may even share some ways of doing so.\"\n\nSee you there!",
+              "dateTime": "2024-07-18T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Practical Cryptography for Developers",
+              "description": "This month we have Pete Nicholls here to give us an intro to what we, as developers should know about cryptography. Personally, all I know is that I should never ever write my own.. so, I'm looking forward to learning heaps!\n\nIn Pete's words -> \"As developers, we encounter cryptography all the time: SSH keys, SSL/TLS certificates, password hashing, JWT signing, and so on. There are plenty of tutorials and libraries to help us. But what does “AES-256-CTR-HMAC” *mean* anyway? Why does the world of cryptography have to be so… cryptic? In this talk, I’d like to share some practical lessons I’ve learned working with cryptography over the years.\"\n\nSee you there!",
+              "dateTime": "2024-06-20T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Women in Programming",
+              "description": "This month we are lucky to have Saray Hay speaking to us on the subject of Women in Programming. Come along to celebrate the women who have pioneered crucial developments in software and information technology. A bit of a history lesson, followed by a discussion of the opportunities we have to combat the challenges facing women in the industry.",
+              "dateTime": "2024-05-16T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Zero to the app store in a week… and two years of ground work",
+              "description": "This month we are lucky to have Dan Lawler talking to us about about a successful launch of a mobile app built using Hotwire - Turbo-Native...\n\nAn extension to Rob Ingram's Hotwire ([https://hotwired.dev/](https://hotwired.dev/)) talk, we'll discuss Hotwire's Turbo Native implementation. After a couple years of prep work slowly converting our Rails app to be fully Turbo compliant (a component of Hotwire, see [https://turbo.hotwired.dev/](https://turbo.hotwired.dev/)), with the help of Jumpstart Pro's iOS and Android template projects, we were able to launch two native apps within a week. Come learn how imposter developers can do wonderful things with wonderful Rails-team libraries.\n\nSee you there!",
+              "dateTime": "2024-04-18T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Design Mind, Developer Mind",
+              "description": "Web developers and designers work together on the same projects, but we don’t always understand each other or communicate effectively.\n\nIsaac Freeman is a longtime Rails developer who has also worked as a web designer, and he’ll explore how the mindsets needed for each profession overlap and how they differ. He’ll offer some ideas about how to communicate effectively with designers.",
+              "dateTime": "2024-03-21T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Albert Nisbet: Adventures in coding for the physical world",
+              "description": "This month, we're delighted to introduce debut speaker Albert Nisbet. He writes…\n\n\"It's object-oriented programming but not as you know it! In this presentation, I'll be reflecting on the role programming has played in my recent foray into 3D printing. Join me to discover a new language for 3D parts, instantiate real-world art, and compile some triangles.\"\n\nAlbert is a Product Software Engineer currently working with the crew at Kilterset. He's previously worked at Hatch and Xero. You can find more Albert at https://albert.nz/",
+              "dateTime": "2024-02-15T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: I read \"PostgreSQL 14 Internals\" so you don't have to",
+              "description": "This month we are lucky to have Malcolm Locke to reveal the inner workings of Postgres.\n\n\"I'll try to distill the details most relevant to engineers from Egor Rogov's book. This talk should be useful to anyone who uses PostgreSQL as a database for their applications. A basic knowledge of SQL will be assumed.\"\n\nWho knows what'll be in here, but, Malcolm casually mentioned the other day that he was creating a table with 20000+ (I think) columns just to see how it would fail (because he knew it would from the book!)\n\nMadness.\n\nAnyway, should be a really interesting meetup - see you there.",
+              "dateTime": "2024-01-18T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Xmas Social",
+              "description": "As always, December's meetup will be a social. Bring your games, instruments, and good cheer. Note the earlier time of 7pm, we will be organising pizza, so please RSVP on our Slack channel if you have any dietary preferences.",
+              "dateTime": "2023-12-21T19:00+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: SV & NZ: Untapped Opportunity",
+              "description": "Remote jobs aren't always easy to get. Remote jobs working for a Silicon Valley startup when you're applying directly from NZ definitely aren't easy to get, *but*, it is *possible*.\n\nThis month we are lucky to have Brendon Muschamp speaking to us about how to go about getting a remote job for a silicon valley startup and some of the challenges and opportunities he has had since doing this. Brendon has been working for Loom a Silicon Valley startup for the last few years. Now, while we can't say he was single-handedly responsible for their $900m recent acquisition, we can't say he wasn't either ;)\n\nAnyway, if you want to hear about some of the opportunities and challenges he faced, and perhaps how you might go about getting one of these roles, come along to this months meetup - it's sure to be an interesting one.",
+              "dateTime": "2023-11-16T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: The Imposter's Guide to Computer Science",
+              "description": "Ever felt like you’re missing some core knowledge of computer science, despite being immersed in tech? In this talk, we'll explore some foundational computing principles and see how they shape our work today. Perfect for self-taught developers, those curious about computer science, or anyone keen on a refresher of the essentials.\n\nMany thanks to Tim Ross for such an interesting topic! See you there :)",
+              "dateTime": "2023-10-19T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Nick Butcher: Coordination, AI, and fighting Moloch without losing it all 🔥",
+              "description": "This month, Nick Butcher shares his thoughts on \"how coordination failures are screwing us all, how AI seems it could help, and why people who seem very smart are pretty worried about trying\".\n\nNick is the CTO at CarbonCrop, a company making it simple to earn carbon credits and helping to scale our climate change response.",
+              "dateTime": "2023-09-21T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Coding escape, bring a laptop and prepare for a challenge",
+              "description": "Note: pizza before meetup (please read message!) and the *earlier start time* of 18:30 if you're coming for food (the meetup itself will start at 19:30)\n\nThis month we have Ben Tillman giving us a coding challenge. So, bring a laptop if you have one (if you don't - come anyway as working in a group with others is always more fun anyway!).\n\nIt won't matter if you're not a ruby programmer - you can use whatever language you like the most, or, if you're inclined, maybe even regex like as happened in previous years!\n\nBen's company Marmalade [https://www.withmarmalade.com.au/](https://www.withmarmalade.com.au/) has kindly offered to sponsor Pizza before the meetup, so, if you're keen for pizza, please RSVP and join us in the Christchurch channel on slack (go to https://ruby.nz/ and click the link under community and we'll email you a link)\n\nSee you there!",
+              "dateTime": "2023-08-17T18:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Mark Haylock: Searching for performance outliers in a Rails app",
+              "description": "This month, Mark Haylock will share his hard-won experience optimising Rails applications. He writes…\n\nAvoiding premature optimisation is wise, but eventually you’ll reach a scale where your traffic tests the limits of your application. Let’s explore a few options for proactively identifying problems - so you can create some additional capacity *before* you urgently need it!\n\nSee you there!",
+              "dateTime": "2023-07-20T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Embrace the disaster your projects will inevitably become",
+              "description": "Hey everyone!\n\nThis Thursday, 15th June, we have a talk by Steven Chudley with the somewhat provocative title “Embrace the disaster your projects will inevitably become”.\n\nThis talk will apparently cover many things, and the title will make more sense once we've experienced it.\n\nThere may also be time for lightning talks, so bring your 5 min thought leadership for us all to enjoy.\n\nSee you there! 🥳",
+              "dateTime": "2023-06-15T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: The dominance of the Array in Ruby",
+              "description": "At last… a bona fide Ruby talk at the Ruby meet up!\n\nThis month, Alexandre Barret will share some insights on the dominance of the array in Ruby — insights gleaned from attempting to safely inherit the Array Ruby core class. He'll cover:\n\n* Quick trivia on Array\n* The problem with inheriting Array core class\n* How Ruby is specced and tested\n* Rubocop and how to create custom cops\n* Overview of Grizzly-rb\n\nThere will probably be time for lightning talks, so bring your 5 min thought leadership for us all to enjoy!",
+              "dateTime": "2023-05-18T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Growing old in tech",
+              "description": "Malcolm Locke will give a brief summary of some facts, myths and observations on the challenges presented by ageism in the tech sector.\n\nIn the second half we'll have lightning talks, so, come prepared with your hottest takes!",
+              "dateTime": "2023-04-20T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Asynchronous Rails with Samuel Williams",
+              "description": "This month we are very fortunate to be graced by the talents, wonderful company, and spoken words of [Samuel Williams](https://ruby.social/@ioquatix) as he presents “Asynchronous Rails”!\n\nI was lucky enough to catch a version of this talk at RubyConf AU in February and I have been told that we are going to be offered an “exclusive” (my words) “more elaborate” (Samuel’s words) version of this.",
+              "dateTime": "2023-03-16T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "⚡️Supabase in Practice: The Future of Web Backends?",
+              "description": "From the things-you-didn't-know-you-could-do-with-a-database department… This month, Daniel will be sharing his experience building an app with Supabase. Supabase is a \"Open Source\" company, offering a turnkey platform for building PostgreSQL-backed web APIs (seriously, they are ALL IN on PostgreSQL 😍).\n\n\"Supabase is a great place,\nFor hosting your database.\nIt's open source and free,\nSo you can use it with glee.\nIt's simple to get started,\nNo infrastructure to be charted.\nIt's a hosted platform,\nSo you can use it with no qualm.\"\n— ChatGPT\n\nWith $116 million of funding, fawning tech press, and promising out-of-the-box \"authentication, instant APIs, Edge Functions, Realtime subscriptions, and Storage\", how does the reality compare to the hype?\n\nhttps://supabase.com/",
+              "dateTime": "2023-02-16T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "January Meetup: ⚡️ Lightning Talks ⚡️",
+              "description": "To kick off the year, we'll be hosting lightning talks. Give us 10 mins of your holiday hacking, or just get ChatGPT to write a lightning talk for you.",
+              "dateTime": "2023-01-19T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Christmas social! 🎄",
+              "description": "Bring games, instruments, and yourself!",
+              "dateTime": "2022-12-15T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: ⚡️Lightning talks ⚡️",
+              "description": "This month we will be hosting lightning talks! Please come prepared to give a talk, or prepared to enjoy someone else's 🙂",
+              "dateTime": "2022-11-17T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: “How to Hotwire a Rails app in 7ish easy steps”",
+              "description": "This month we have the wonderful Rob Ingram presenting “How to Hotwire a Rails app in 7ish easy steps”",
+              "dateTime": "2022-10-20T19:30+13:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Contributing to PostgreSQL for fun and profit*",
+              "description": "This month, Daniel Fone will be discussing his (mis)adventures fixing a bug in the pgcrypto extension, understanding the pgsql-hackers mailing list, and trying to get a patch applied during the commitfest.\n\n\\* He failed to contribute, he didn't have fun, and no-one profited.",
+              "dateTime": "2022-09-15T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Lightning talks",
+              "description": "This month, due to speaker illness, is now lightning talks.",
+              "dateTime": "2022-08-18T19:30+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Nick Butcher",
+              "description": "Tonight we will have the privilege of being presented a talk by the illustrious Nick Butcher.",
+              "dateTime": "2022-07-21T19:00+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Hotwire: Turbo, Stimulus and the Future of JavaScript in Rails",
+              "description": "Rails 7 promises some major changes in the way the JavaScript is packaged and used. Here to take us on a tour of all the new hotness is our very own Tim Ross. If you're curious what the future of JavaScript in Rails looks like - come join us on Thursday 19th :)\n\nAlso, if you haven't already done so, join us in #christchurch on https://slack.ruby.nz",
+              "dateTime": "2022-05-19T19:00+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2022-04-21T19:00+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2022-04-21T19:00+12:00",
+              "venue": {
+                "name": "Saltworks",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2022-02-17T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Lightning talks",
+              "description": "OUR VENUE HAS CHANGED - Saltworks 4 Ash street.\n\nHi all,\n\nWe're kicking off the new year with lightning talks at our new venue, kindly hosted by the awesome co-working space called Saltworks https://works.nz/saltworks/ . It's at 4 Ash street.\n\nThe doors will be closed, but, we'll have someone there from 7pm, and a number you can call if you get stuck outside. Either that or jump into #christchurch on https://slack.ruby.nz and ask for help.\n\nPlease bring a lightning talk to share and lets get this meetup re-started! ;)\n\nMany many thanks to Leon and the Saltworks crew for allowing us to host using their space.\n\nYou must have a vaccine pass to attend.",
+              "dateTime": "2022-01-20T19:00+13:00",
+              "venue": {
+                "name": "4 Ash Street",
+                "address": "4 Ash Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2021-12-16T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2021-11-18T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2021-10-21T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Online Only Ruby AGM meetup",
+              "description": "We have had to cancel this event because of Covid Level 4.\n\nIf you can join for the Ruby society AGM at 7pm please do (we need to make quorum). This is the link to the video stream https://bit.ly/ruby-nz-agm-2021\n\nSee you on the other side of lockdown!",
+              "dateTime": "2021-08-19T19:00+12:00",
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": ""
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Faster pagination in Postgres",
+              "description": "Is your slow database getting you down? Do other sites load lightning fast and leave you with multi-second database round-trips? What you need is to come to this months meetup where we're lucky to have Mark Haylock from Trineo sharing some of his recent learning about Postgres. Specifically he'll be sharing the results of some experiments in faster pagination, and why it is generally so slow.\n\nBe there, or be stuck with slow queries.",
+              "dateTime": "2021-07-15T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: From dev to prod",
+              "description": "It's all well and good having lovely shiny sparkly code sitting on your dev machine, but, at some point it needs to wend its merry way to prod. This month we have Wayne here to talk to us about some of his learnings on taking many codebases from dev to prod. The talk will discuss Continuous Integration & Continuous Deployment, as well as other factors you need to consider.\n\nFor the second half of the evening there will be time for lightning talks, so keep an eye out for anything interesting you've learned over the last month that you think would be good to share. Can be anything at all, tech related or not, and can just be a minute :) There's always more to learn & share.",
+              "dateTime": "2021-06-17T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Making Self-Supervised Learning + Startup Equity work for you",
+              "description": "This month we are lucky to have Nick Butcher back to give us another talk - this time on supervised learning and also how equity works in startups... should be fascinating!\n\n-----EDIT---\nThere will probably be time for Lightning Talks for the second half, so, bring along something to share if you have anything. Could be a neat library you've come across, some pattern you've been playing with, a book you've read - anything ;)\n\n------------- TALK DETAILS---------\n\nDo you want to have to teach your nascent artificial general intelligence all the facts of the universe using carefully curated hand labelled examples?\n\nMe neither.\n\nFind out how self supervised learning can deliver you from a life of thankless grind, and let you create the seeds of our destruction... or a better image recognition model.\n\nDo you want to create a transformational, world improving, preposterously valuable startup through the wise application of self supervised learning techniques only to end up disenfranchised and poor?\n\nMe neither.\n\nFind out about how different forms of equity in startups work, and what you might want to consider, from someone who is neither a lawyer nor an accountant and whose musings definitely do not constitute financial or legal advice but might give you some ideas to run by an actual qualified person if it ever comes up.",
+              "dateTime": "2021-05-20T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: GraphQL2 (yes, we've taken it to the next level) ",
+              "description": "After a couple of introductory talks in the past we’re lucky to have Rob Ingram taking a further look at GraphQL. We’ll cover how to prevent some common problems, best practices for building an API that can evolve over time and how to make the most of features of GraphQL that set it apart from standard REST APIs.\n\nAs ever, this meetup will only proceed if we're still at covid Level 1.\n\nPlease join us on https://slack.ruby.nz #christchurch for all ruby related ChCh banter.",
+              "dateTime": "2021-04-15T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Simple ways to secure your Ruby app & NZ Covid Tracer App",
+              "description": "Please note: This event will only go ahead if we are still at Level 1.\n\nThis month we have Pete Nicholls from Trineo giving us a talk on securing our Ruby apps:\n\nLike testing, application security is an essential domain. Fewer defects and risks make for happier customers and stakeholders. But learning takes time. What are some simple steps you can take to start?\n\n------ ALSO! Guest Bonus Speaker----\n\nThis month we are lucky to have our NZ Ruby President and **overseas speaker** Merrin in town. Merrin is going to give a talk on her work with the NZ Covid Tracer app. Come hear about the inner workings of one of the frontline defences NZ has against this sneaky regular-life-as-we-used-to-know-it-altering virus.",
+              "dateTime": "2021-03-18T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Lightning Talks",
+              "description": "The meetup is still going ahead, but, unfortunately our overseas special guest speaker Nahum has had to cancel his flights because of the timing of the pesky covid outbreak.\n\nSo, bring your best lightning talk. If you happen to be extra prepared and have an actual talk you want to give, please let us know in #christchurch on https://slack.ruby.nz\n\nSee you there,",
+              "dateTime": "2021-02-18T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Lightning Talks",
+              "description": "We're going to ease our way into 2021 with an evening of lightning talks for this month. Have a think about something to share, maybe you've played around with ruby 3, maybe you solved a particularly weird bug (maybe you didn't solve it, that happens too ;), or anything else of interest..\n\nWe're accepting talks for 2021, please join #christchurch on https://slack.ruby.nz/ to join the discussion.\n\nHere's looking forward to a less locked-down 2021!",
+              "dateTime": "2021-01-21T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  December Social",
+              "description": "Aaaaaaaaallll righty then. 2020 almost behind us, multiple covid vaccines on the horizon, and generally things are beginning to look up. It's definitely time to celebrate & unwind at the annual December social.\n\nSo - bring along some end-of-year cheer, musical instruments and games (board games, card games, entire pool tables (assuming you can carry them)) and see you for a fun evenings entertainment :)",
+              "dateTime": "2020-12-17T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Sarah Learns Network Programming Part 1: Introduction to Sockets",
+              "description": "For the final talk of the year we're lucky to have Sarah from Trineo giving an introduction to sockets. She's going to attempt to answer questions like: What are they? Where did they come from? How does one use them?\n\nSo come along to learn about one of the fundamental building blocks on top of which our entire ~~house of cards~~ industry, is built on ;)\n\nSee you there",
+              "dateTime": "2020-11-19T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Localstack & Lightning Talks",
+              "description": "WWWWOOOOOHOOOOO! Level 1 here we come. This month it's going to be an**actual in-person meetup**. Our hosts Trineo require that anyone attending the meetup scan in at the door with the NZ Covid Tracer app.\n\nThis month we are will have an intro to localstack given by Mark Haylock, and after that we'll be opening it up for lightning talks. Please have a think of something to share (ruby related or otherwise, we're not picky!).\n\nSee you there (assuming we stay at level 1, otherwise the meetup will be cancelled)",
+              "dateTime": "2020-10-15T19:00+13:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: How everything is made.",
+              "description": "This month we are lucky to have Dan Lawler giving us an introduction to how real humans automate manufacturing tasks in the real world.\n\nFeaturing hands-on programming tasks using a new language (bring your laptop!) and capped off with a dive into the most infamous manufacturing sabotage mission of modern times.\n\nSee you there!",
+              "dateTime": "2020-07-16T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: TBD",
+              "description": "Details will be added closer to to the time.",
+              "dateTime": "2020-07-16T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: ",
+              "description": "TBD",
+              "dateTime": "2020-07-16T19:00+12:00",
+              "venue": {
+                "name": "181 High Street",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: ",
+              "description": "TBD",
+              "dateTime": "2020-07-16T19:00+12:00",
+              "venue": {
+                "name": "181 High Street",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Context is everything.",
+              "description": "Donald Rumsfeld had the memorable quote :\n\n\"There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know.\"\n\nIn this talk Steve is going to put another twist on this idea: \"There are things your users know that they don't know they know, but that they wish you knew\"\n\nPLEASE NOTE THE CHANGE IN LOCATION. We are now at Trineo's offices - Level 1, 181 High Street. This will be the location for the ruby meetup going forward, and many thanks to Trineo for the use of the space.",
+              "dateTime": "2020-06-18T19:00+12:00",
+              "venue": {
+                "name": "Trineo Ltd",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Context is everything.",
+              "description": "Donald Rumsfeld had the memorable quote :\n\n\"There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know.\"\n\nIn this talk Steve is going to put another twist on this idea: \"There are things your users know that they don't know they know, but that they wish you knew\"\n\nPLEASE NOTE THE CHANGE IN LOCATION. We are now at Trineo's offices - Level 1, 181 High Street. This will be the location for the ruby meetup going forward, and many thanks to Trineo for the use of the space.",
+              "dateTime": "2020-06-18T19:00+12:00",
+              "venue": {
+                "name": "181 High Street",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "TBA. We'll update these details closer to the time. :)",
+              "dateTime": "2020-05-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "TBA. We'll update these details closer to the time. :)",
+              "dateTime": "2020-04-16T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "What next? Reflections on 15 years, 24 apps, and 1 mistake.",
+              "description": "This month I want to start a conversation I've been planning for a very long time. I want to briefly reflect on my experience writing a lot of web applications, and then describe my now quite detailed vision for how I want to develop web apps in the future. This will feature Declarative Delightfulness, Helpful Hypermedia, Prized Postgresql, Joyful JSON schemas, Adaptable API specs, Steadfast SQL, and much more. This will not feature graphql.\n\nI've been thinking about this for 2 years and 5 months, so I hope the heckling will be robust. As always, doors open 7pm and talk kicks off at 7.30pm.\n\nSee you there!\n\nDaniel",
+              "dateTime": "2020-03-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Bugs, bugs, bring out your bugs.",
+              "description": "This month it's \"bug lightning talks\". The idea here: talk about a bug you came across and fixed (or worked around ;) horror stories we can learn from / brilliant insights to wow us with - whatever works.\n\nCould be a memory issue killing production, could be that time you dropped the production database / exposed all the private data publicly.... y'know, things that happen all the time and it's really no-ones fault - and if it was my fault really it was the procedures that need to be improved and anyway aren't we really one team please don't fire me ;)\n\nIf you don’t already have a bug in mind, just keep your eye out over the next 20 days, if you’re anything like me something is bound to turn up.",
+              "dateTime": "2020-02-20T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: The not-ruby ruby meetup",
+              "description": "Hi all,\n\nThis month it's our \"not ruby (!ruby)\" Ruby meetup. For this one bring along a lightning talk on anything which isn't to do with ruby. Can be technical, but, it certainly doesn't have to be.\n\nAlso, we'll be putting out our yearly call for presenters shortly. If you're keen, either message us here, or (better) jump into #christchurch on http://slack.ruby.nz/\n\nSee you on the 16th - Happy New Year :)",
+              "dateTime": "2020-01-16T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Christmas Social",
+              "description": "Where the heck did 2019 go? VOOM! Well, it’s time for the annual Christmas Social. Bring along games, Christmas cheer, and leave your laptops in the bag!",
+              "dateTime": "2019-12-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Rewriting  LandOnline for LINZ",
+              "description": "This month Wayne Carter has very kindly agreed to fly back from the North Island to give a talk on his work rewriting LandOnline for LINZ.\n\nThere will probably be time for lightning talks after, so, have a think about what you've been working on or playing with for the last month, and come ready to share :)\n\nSee you there :)",
+              "dateTime": "2019-11-21T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Learning about Distributed Tracing",
+              "description": "What is Distributed Tracing, what are some practical examples, and is it worth your time? Mark Haylock is on a mission to answer these questions - and is going to share what he has learnt.",
+              "dateTime": "2019-10-17T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: GraphQL using Rails and React",
+              "description": "In this talk, Tim Ross from Riparide will discuss a recent transition from a REST API to GraphQL, the challenges that were faced and the problems solved. He will also demonstrate how they are using GraphQL with a Rails backend and React client.",
+              "dateTime": "2019-09-19T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: PREPARE TO REPEL BOARDERS with Rails 5.2 Attributes API",
+              "description": "This month we have Patrick Davey giving an introduction to form objects. He'll show how they work, when and where you'd use & overuse them, and how the fantastic Rails 5.2 Attributes API fits into it.\n\nThere will be time for lightning talks afterwards, so, have a think of anything cool you've played with in the last month, and come prepared to show & tell.\n\nSee you at the meetup.",
+              "dateTime": "2019-08-15T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Learning is hard - How to train your neural net",
+              "description": "This month we have Nick Butcher giving us an introduction to neural nets: the tech that autonomous cars, killer robots and game playing artificial intelligence all have in common. Neural nets are going to reshape the jobs landscape for the coming years with greater and greater levels of automation, come learn how to train them.",
+              "dateTime": "2019-07-18T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Sarah Learns the Ruby Standard Library Part I: FileUtils and CSV",
+              "description": "From our very own Sarah Hay (the only singer/songwriter/engineer I've heard sing about refactoring!)\n\n\"By popular demand, I’m going to give a talk on a couple of modules in the Ruby Standard Library with which people may not be too familiar: CSV and FileUtils.\nFrom the basic to the brilliant, come along, bring your friends and see me live demo some of the really useful features these staples of the Ruby Standard Library provide. Bring questions!\"\n\nAs always, doors open at 7pm, talks kick off at 7.30pm.",
+              "dateTime": "2019-06-20T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Unspoilt By Progress: An Introduction to Progressive Web Apps",
+              "description": "This month's talk will be from Rails freelancer and meetup regular Rob Ingram.\n\n> Progressive Web Apps (PWAs) provide a new paradigm for how we use and develop web based applications. We'll look at what we mean by Progressive Web Apps and delve into their features and the technologies that enable them before looking into the code of a small example PWA.\n\nApparently \"there will definitely be time for lightning talks\", so come prepared to share your latest TMIL (This Month I Learnt)\n\nAs always, doors open at 7pm, talks kick off at 7.30pm.",
+              "dateTime": "2019-05-16T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "A Tale of Two CTEs: A Postgresql Adventure",
+              "description": "This will be a jaunty frolic through two SQL queries, diving deeply into the single most useful and reliable component in our modern software stack. On the way, we will sample a smorgasboard of postgresql tricks I found useful to do a thing I was trying to do.\n\n* JSON querying\n* Lateral joins\n* date_trunc\n* percentile_disc\n* distinct on\n* Non-recursive Common Table Expressions (CTEs), which are very different from…\n* Recursive CTEs\n* Loose index scans and\n* A very simple look at how the query planner plans its queries\n\nOf course, we can also talk about event sourcing since that's what everyone else is talking about too.",
+              "dateTime": "2019-04-18T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Designing for Ethical Online Discourse",
+              "description": "Please note, there's a change of venue & date for this meetup in response to the horrific attacks against the Muslim community here in Christchurch.\n\nThis month Pete Nicholls will be presenting on Designing for Ethical Online Discourse.\n\nThe meetup will be held at Trineo's offices: Level 1, 181 High St . There will be snacks and drinks available.",
+              "dateTime": "2019-03-28T19:00+13:00",
+              "venue": {
+                "name": "181 High Street",
+                "address": "181 High Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Lightning Talks (change from original talk)",
+              "description": "Hi All,\n\nUnfortunately our original speaker is no longer able to make this meetup.\n\nSo, at short notice, it's time for (thunder roll) LIGHTING TALKS!\n\nYes, bring your best lightning talk. Or a talk. Or a picture to share. Or a funky website you've discovered, or tell us why you prefer RIGHT OUTER JOINS to Inner Joins, anything, we'll take anything ;)\n\nRight - see you later :)",
+              "dateTime": "2019-02-21T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "What Could Go Wrong? The Subtle Science Of Coding for Failure",
+              "description": "This will be the alpha version of my RubyConf AU 2019 talk.\n\n---\n\nSoftware development is the anticipation of a thousand dangers: regressions, edge-cases, exceptions, attacks, downtime, the list is endless. Drawing from a wide range of disciplines, we’ll build a simple model for quantifying danger, explore why the human brain is so bad at it, and examine some practical applications for our development processes. There will be at least one science.",
+              "dateTime": "2019-01-17T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Christmas Social",
+              "description": "Where the heck did 2018 go? VOOM! Well, it's time for the annual Christmas Social. Bring along games, Christmas cheer, and leave your laptops in the bag!",
+              "dateTime": "2018-12-20T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Down the rabbit hole with HTTP/2",
+              "description": "This month we're lucky to have Samuel Williams giving us a talk on HTTP/2 ->\n\nHTTP/2, while semantically similar to HTTP/1, is a binary protocol which significantly reduces per-request latency and overhead. Web applications built around the performance characteristics of HTTP/1 no longer perform optimally when served via HTTP/2. This is a problem because estimates suggest that more than 80% of users have web browsers which utilise of HTTP/2 when available. We will discuss how the HTTP/2 protocol works from the binary framing protocol up, and look at some of the practical differences it makes to real-world applications.\n\n------update-----\n\nSome of you may have heard of the draft HTTP/3 spec, and maybe seen this blog post -> https://daniel.haxx.se/blog/2018/11/11/http-3/\n\nSo the semantics of HTTP/2 don’t change, but the underlying framing basically goes over UDP. We will talk about HTTP/3 a bit and some of the reasons it is being proposed the way it is.",
+              "dateTime": "2018-11-15T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Domain Driven Design",
+              "description": "This month we are lucky to have Tim Ross giving an introduction to Domain Driven Design.\n\nDomain Driven Design is about designing software based on models of the underlying domain. The model provides a common language to help communication between software developers and domain experts.\n\nThis talk will be an introduction to Domain Driven Design and how the concepts can be applied in a Rails application.",
+              "dateTime": "2018-10-18T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Dry-Validation: A talk and discussion",
+              "description": "Philip will introduce everyone to the dry-validation library, one of his favourites. In this talk we'll take a look through some examples and then follow with a discussion on the merits of dry-rb and of using a specialised validation library.",
+              "dateTime": "2018-09-20T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: How to make bad decisions",
+              "description": "One way to learn how to improve is to look at how that thing is done well. Another great way to learn is to look at how that thing is done _badly_ and then not do it that way!\n\nThis month we have Luke Arndt giving us a talk on \"how to make bad decisions\", in the hope that we can avoid making the same mistakes in the future.\n\nAs ever, there will be time for lightning talks... so, if you can, do bring something funky that you've learned / seen / used to share with the group.",
+              "dateTime": "2018-08-16T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: you |> introduction to Elixir",
+              "description": "This month is a two part evening, so, please try to arrive on time at 7:30 (or even 7:10 for setup).\n\nFirst up, for about 45 minutes or so we'll pair up and work through a fun little coding challenge (it's one of the ones from adventofcode.com , but no, we're not telling you which one ;)\n\nThen, Patrick Davey will work through the same programming puzzle that you'll now be familiar with, but, in the programming language Elixir. Elixir is an amazing language built on top of erlang. Erlang itself has been around since forever, and is the main part of the reason the WhatsApp team was only about 50 people serving 900 million users...\n\nSee you there :)",
+              "dateTime": "2018-07-19T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  Can f.lux stop you getting the blues?",
+              "description": "This month we're lucky to have Malcolm Locke giving a talk:\n\n\"It's the question on pretty much nobody's lips, does f.lux actually work? This talk will be a journey of enlightenment taking us from the flat earth of blind faith to circumnavigate a sphere of topics including physics, physiology, optics and digital imaging to finally maybe answer the question you never even wanted to know the answer to.\n\nThe only topic guaranteed to be safe from coverage will be the Ruby programming language.\"",
+              "dateTime": "2018-06-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Odiferous Code: A smell by any other name…",
+              "description": "There exists a set of names for features of code that can indicate deeper problems in your application. These are called \"Code Smells\". In this talk, Sarah Hay will introduce some of these code smells, and the associated refactorings to take your code from smelly to not-so-smelly.\n\nThis talk will be of use to any programmer who has to work with code ;) While the examples will be in ruby, the patterns and techniques will be of use to all.\n\nSee you there, and, do have a think of your own favourite refactorings / smells to share :)",
+              "dateTime": "2018-05-17T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: No REST for the Wicked: An Introduction to GraphQL",
+              "description": "This month we have Rob Ingram giving us an introduction to GraphQL:\n\n\"In 2015 Facebook made public its new data query language GraphQL. We will describe what GraphQL is, how it can be useful in API based applications and compare it to the REST interfaces with which we may be more familiar. We will then walk through an implementation of a GraphQL API for a simple Rails app.\"",
+              "dateTime": "2018-04-19T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Asynchronous Ruby",
+              "description": "\"The goal for Ruby 3 is to improve performance significantly. A number of areas are being explored, including compilation, concurrency, garbage collection, data structures, etc. Server applications processing many concurrent requests are an area where Ruby typically struggles. The typical thread-per-request model is well understood, however threads are a limited resource and can lead to synchronisation issues, deadlocks and other problems. We will discuss the reactor pattern, explore several real world implementations for Ruby, and look at how they compare to existing thread-per-request servers.\"\n\nMany thanks to Samuel Williams for offering this talk! Does this mean there's no point in learning Elixir ;) ?",
+              "dateTime": "2018-03-15T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: A Definitive Guide to Naming Things",
+              "description": "There’s an old saying that goes, “The two hardest problems in programming are cache invalidation, naming things and off by one errors” In this talk we’ll look at the subtle art of naming things, with a treatment on the common issues that arise when trying to name something, and how to resolve them.\n\nAs ever, please come along for 7pm for a 7:30 start, and bring along something to share (anything!) for lightning talks (tools, git / bash / recipe, funky chess move, whatever).\n\nSee you on the 15th (it's an early third Thursday!).",
+              "dateTime": "2018-02-15T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: A Vue to a kill & A Technical Explanation of Bitcoin",
+              "description": "This meetup Patrick Davey will be giving an introduction to the Vue framework and why he chose to use it and an attempt at explaining how it differs from React.\n\nPatrick: \"The title is misleading, this talk has nothing to do with James Bond I'm afraid. I'll be giving a general introduction to the Vue framework, why I like it, and maybe building out a duplicate of Sarah's React app for comparing and contrasting.\"\n\nAlso, we will have Pete Nicholls giving us a technical introduction to Bitcoin. \" I want to leave you with the impression you could go away and implement your own blockchain\". Note, this is _not_ a talk on how to get rich buying Bitcoin ;)",
+              "dateTime": "2018-01-18T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Christmas Social",
+              "description": "Another circumambulation around the sun almost completed, and therefore December's meetup will be our yearly social meetup. Drinks from 7pm at Pomeroys (either upstairs or in the beer garden, depending on sunshine & space available).\n\nAlso - games!.. If you have a favourite game/boardgame bring it along and we'll hopefully have time for a few games. Also, you might find out why December (which sounds like it should be the 10th month), isn't.\n\nThanks to all our wonderful speakers for making this year a real success! We'll be putting out a call for speakers for next year later on, but, if you want to pre-emptively put your hand up for next year, please do ;)\n\nIf you haven't already joined us on slack - please do join the https://slack.ruby.nz/ (there's a #christchurch)\n\nWell, see you on the 21st.\n\nPatrick & Daniel & Phil :)",
+              "dateTime": "2017-12-21T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Of bugs: I've seen a few",
+              "description": "Bring out your bugs, bring out your bugs (https://www.youtube.com/watch?v=grbSQ6O6kbs)\n\nThis month Philip Arndt will be kick starting a discussion on bugs (interesting and otherwise). There are so many bugs out there, and learning from these situations is a great way to level up, as by definition, it's something that was unforeseen.\n\nPlease bring along a tale of your latest / most interesting bug to share, the more stories the better.",
+              "dateTime": "2017-11-16T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: The Joy of (Enterprise) Refactoring",
+              "description": "Back by popular demand, we are reprising our Joy of Refactoring (https://www.meetup.com/Christchurch-Ruby-Group/events/238205006/) meetup. This time, however, it's Enterprise Ready™.\n\nOnce again we'll have a tiny* Rails app, this time featuring a simple Xero integration. For the first half of the night, we'll pair up and explore some of the ways we can reorganise the code to be more readable, reliable, and ultimately more joyful. During the second half, we'll discuss the results, along with the pros and cons of the various techniques that emerge.\n\nIf you're looking for inspiration, I highly recommend this talk (https://vimeo.com/91672848?__s=naxcynizt6remua6p7iv) examining the purpose of OO software design.\n\nAnd always remember…\n\n> Any way you want it to be, that's just right.\n\nhttps://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/bob_0.png\n\n--\n\n* It's actually only ~200 lines across 4 files.",
+              "dateTime": "2017-10-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Building an app with Webpacker and Rails 5.1",
+              "description": "This month we have Mark Haylock from Trineo giving a talk on using the webpacker gem with rails 5.1 . This seems to be the future of the asset pipeline in Rails, so, come along and learn how things are changing.\n\nThe future is here. Well, it will be on the 21st ;)",
+              "dateTime": "2017-09-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Being inclusive: ActiveRecord eager loading internals",
+              "description": "This month we have Malcolm Locke from Trineo with a talk on Active Record internals: Eager loading is one of the keys tools available for improving performance in the average Rails application. This talk will discuss how eager loading works, and some of it's limitations and pitfalls.\n\nTo paraphrase Douglas Adams -> \"I love, N+1 queries, I love the whooshing sound they make as they fly by\" ;)\n\nAs usual, there will be time for lightning talks, so, bring along something interesting to share - or just a question to ask - we'll take the lot!\n\nSee you on the 17th.",
+              "dateTime": "2017-08-17T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: How I Discovered the Omission of 'React' in The Beatles' Oeuvre.",
+              "description": "Ever wondered what all the excitement is for Frontend Frameworks? Know where they might come in useful in your app? Want to get started with React? If any of these are you, come along to this months' (Ruby!) meetup where we have Sarah Hay from Trineo giving us an introduction to React.\n\nThere will, as ever, be time for lightning talks. So, bring along your latest learning's and teach us all something new :)",
+              "dateTime": "2017-07-20T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Meetup: software development tales in the style of One Thousand and One Nights!",
+              "description": "This month we are lucky to have Pete Nicholls regaling us with a \"collection of tales from software development history, told in the style of One Thousand and One Nights\"\n\nJust how Pete is going to rework tales like Alibaba and the forty thieves is anyone's guess, however, if history is anything to go by, it'll be a entertaining and interesting talk.\n\nThere will be time for lightning talks after, so, bring along the latest thing you've learned / experimented with and let us know.\n\nSee you on the 15th.",
+              "dateTime": "2017-06-15T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Microservices",
+              "description": "Do you know what Microservices are? Do you know when you might use them? Do you know the pitfalls? If not (or even if you do!) this is the meetup for you:\n\nTim Ross will be giving us an overview of Microservices architecture and some lessons learned from a recent project using Microservices and Rails API.\n\nAs per usual there'll be an opportunity for lightning talks, so bring along the latest cool thing you've been playing with and teach us all a thing or two.\n\nSee you there :)",
+              "dateTime": "2017-05-18T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Let's Do An eCommerce!",
+              "description": "Isaac Freeman of Stembolt will be live-coding an eCommerce site using Solidus, and discussing the various decisions and trade-offs you have to make when you're adding customisations and extensions on top of a large complex platform.\n\nThere will, as always, be time for any short lightning talks in the second half of the eve.\n\nSee you there!",
+              "dateTime": "2017-04-20T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "The Joy of Refactoring",
+              "description": "This month we'll be attempting a calm and peaceful refactoring session in the style of Bob Ross' Joy of Painting (https://www.youtube.com/watch?v=VlucWfTUo1A).\n\nWe'll be working through a few examples of Ruby and Rails code, and practicing some of the ways we can make code more readable and maintainable.\n\nRemember, there are no mistakes… just happy little accidents!\n\nhttps://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/bob_0.png\n\nSon of a gun!",
+              "dateTime": "2017-03-16T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Pre Rails Camp Social",
+              "description": "Rails Camp is nearly upon us (http://camp.ruby.nz/)! As such, we’ll just be meeting for a drink and a chat this month. If someone has a demo or a talk — all the better!\n\nWe’ll either be in the bar, upstairs at Catalyst, or in the beer garden depending on the weather and busyness. Keep an eye on the twitter feed (https://twitter.com/chchruby) from 7pm if you can’t find us.\n\nAnd I’ll probably bring my deck of exploding kittens…",
+              "dateTime": "2017-02-16T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Ruby! Orca! Dotfile management! what more could you want?",
+              "description": "Patrick has been away travelling for a year, and is now back in ChCh. There will be a short talk including, but not limited to, the simplest way to manage your dotfiles (and why you should) and pictures of Orca.\n\nhttp://photos3.meetupstatic.com/photos/event/7/d/6/6/600_457472102.jpeg\n\nWhat more could you possibly want in a meetup? But seriously, we do have spaces for technical talks - so if you have something you'd like to demo / discuss, please do get in touch.\n\nThanks!",
+              "dateTime": "2017-01-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Combined Christmas Social",
+              "description": "In the spirit of Christmas goodwill and peace to all, this month we'll be holding a combined meetup with a number of other Christchurch tech groups (JS, SQL Server, Azure, to name a few).\n\nWe'll be meeting at Winnie Bagoes from 5:30pm. See you there!",
+              "dateTime": "2016-12-15T17:30+13:00",
+              "venue": {
+                "name": "Winnie Bagoes City",
+                "address": "Corner of Madras St and Allen St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "We are lucky enough to have Pete https://twitter.com/aupajo speaking tonight on a variety of topics. We'll also have some time for social interaction and to welcome any new members.\n\nWe look forward to seeing you!",
+              "dateTime": "2016-11-17T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup - Choose Your Own Adventure",
+              "description": "Hi everyone,\n\nUnfortunately, neither Phil nor I can make the meetup next week. So it’s a case of choose your own adventure this month.\n\nIf you decide to head to Pomeroys anyway, grab your towel and turn to page 42.\n\nIf you have a cool topic to talk about, close the book and reply to the email instead.\n\nIf you’re going to take advantage of the situation to seize power and implement your agenda of radical elixir, turn to page 0.\n\nIf you’re a depth-first searching algorithm, keep one finger in this page and hope the end’s not more than 5 decisions away.\n\nCheers,\n\nDaniel\n\nPS. I just heard from Phil that he’s actually going to be there. Too bad I don’t believe in mutability.",
+              "dateTime": "2016-10-20T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Postgres (+ Rails) for Fun and Profit",
+              "description": "This month we're having a Postgres extravaganza (or PostgreSQL, pgsql, pg, depending on which side of the argument you're on (https://www.postgresql.org/message-id/473D7617.6070900@postgresql.org)). Increasingly, Postgres is the database of choice for many developers and engineers, and its steadily expanding feature set makes it incredibly competitive among modern data-stores. The aim of the evening will be to highlight some of the less familiar but extremely useful features postgres has to offer, and how these can work with Rails and ActiveRecord.\n\nThe evening will be in two parts. Firstly we've got a line up of speakers, who'll each briefly explain and demo a feature or two. Secondly, we'll have some hands-on challenges and exercises to do. Topics may include:\n\n• Document storage with JSON and jsonb\n\n• Querying schedules with OVERLAPS\n\n• The duration type\n\n• UUIDs, as primary keys and otherwise\n\n• DB contraints, for actual validations and integrity\n\n• Fast full-text search\n\n• Locking\n\n• Subqueries\n\n• Whatever else…\n\nIf you really want to hear about one of the topics above, or something similar, let us know! We're still lining up speakers and topics.\n\nAs always, doors open at 7pm and the talks begin at 7.30pm. See you there!",
+              "dateTime": "2016-09-15T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "Current suggestions include:\n\n- Extended pub dinner\n- Chat about our favourite new ruby inventions\n- Rails 5 if someone wants to tell us all about it\n- ...\n- Profit!\n\nCurrently leaning toward the extended pub dinner at Pomeroy's with the rest naturally following on.\n\nLeave a comment if you're coming and have opinions!",
+              "dateTime": "2016-08-18T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "This month we will look into the dry-rb ecosystem. Either @parndt will do a presentation on this or will find a better one from the web 😉",
+              "dateTime": "2016-07-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Hanami Hacknight",
+              "description": "This month we're running a low key hack night with the intention of learning a bit about the Hanami framework.\n\nHanami (http://hanamirb.org/) (formerly known as Lotus.rb) bills itself as “a modern web framework for Ruby.” It has a simple, stable API, a minimal DSL, and prioritises the use of plain objects over magical, over-complicated classes with too much responsibility. *cough* Apparently, if you’ve ever felt you’re stretching against the \"Rails way\", you'll appreciate Hanami.\n\nWe'll have a list of silly little projects available to tackle, so come along, pair if you want, hack away with Hanami, and then present your discoveries at the end of the night.\nSee you there!",
+              "dateTime": "2016-06-16T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "Hello everyone! This month we've spent our time helping to organise Rails Girls Christchurch. You have signed up to be a coach, haven't you? If not, the form is here: https://docs.google.com/forms/d/1wQJ93nMrq5nnZ3IWFI61aCMIU_ZiFix4a9a1-A4-gTo/viewform\n\nDue to this, we haven't put much time into planning anything for this month's meet up (sorry! Would anyone else like to help us with the organisational workload?).\n\nSo: we would like to propose a less formal rails camp style meet up where everyone gets together and presents on whatever they have available or whatever they feel like on the night. This usually works out really well as everyone has something valuable to talk about, regardless of whether you think you do or not.\n\nBonus points if someone can create a https://en.wikipedia.org/wiki/Powerpoint-Karaoke slide deck or two, and if someone else wants to do it.\n\nOtherwise, the social aspect may appeal to you! Either way, hope to see you there on Thursday 😀",
+              "dateTime": "2016-05-19T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Working With Legacy Code and Other Bedtime Stories",
+              "description": "This month we're having a series of talks, led by Mark Haylock and Tim Ross. They'll be speaking on Working With Legacy Code, with a focus on coping with existing legacy code, as well as how to leave a better legacy behind.\n\nIn addition, we'll have Pete Nicholls sharing some insights on Sockets in Ruby (the good old-fashioned kind, not the new-fangled websocket/cable thing). Kale Worsley will be sharing some ideas (horrible (https://github.com/horribleideas) or not remains to be seen). Daniel Fone will be talking about Monkey Patching for Fun and Profit.\n\nWill there be others — maybe! Will it be you — why not?! Let me know if you've got a brief talk, we'd love to hear from you.\n\nAs usual, doors open 7pm, talks kick off at 7:30pm.",
+              "dateTime": "2016-04-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "For this month's meetup, we are going to have ⚡️ Lightning talks!! So far we have talks from Daniel Fone, and Australian guest speaker Pat Allan!\n\nCome and join us this St Patrick's day, and if you would like to give a lightning or other short talk then please let us know!",
+              "dateTime": "2016-03-17T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Lightning talks, RubyConf AU, and exercism.io",
+              "description": "Wow, only 3 days until this month's meetup!\n\nComing off the back of this year's RubyConf Australia, we'll have a run down of some of the talks there — along with space for lightning talks on any subject! Let us know if you've got a 5 min topic you'd like to speak on.\n\nFollowing this, we'll be trying our hand at Katrina Owen's excellent exercism.io, a fun, challenging, and frankly therapeutic look at (re)factoring code.\n\nSee you there! Doors open 7pm, talks kick off at 7:30pm.",
+              "dateTime": "2016-02-18T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "The New Year period and January have flown by and our next meetup is this Thursday — yes, today.\n\nCome along to Pomeroy's (the beer garden outside, if the weather is nice, which it is currently) for 7pm on Thursday 21st.\n\nNo talks this month, just good chats and a chance to catch up on Ruby and the rest.",
+              "dateTime": "2016-01-21T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Christmas Social",
+              "description": "Hi all!\n\nDecember has flown by and our next meetup is this Thursday — yes, in just 2 days.\n\nCome along to Pomeroys (the beer garden outside, if the weather is nice) for 7pm on Thursday 17th. No talks this month, just good chats and a chance to catch up on Ruby and the rest.\n\nIf past years are anything to go by, there's likely to be werewolf (or maybe even some Exploding Kittens!) afterwards, so bring your best game face.\n\nThere'll probably be a contingent getting dinner beforehand, so if you're interested in that let me know either here or on the mailing list.\n\nAnyway, see you at Pomeroys on the 17th :)",
+              "dateTime": "2015-12-17T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: What do you get if you cross Ruby and Beer? & more talks",
+              "description": "This month we are having talks, including but not limited to one from Pete Nicholls on his beer setup. More details to come, but it involves at least Rack and Ruby and Beer. I mean really, what more does a talk need?\n\nThere are spots for more talks, lightning or otherwise - please contact here or on the Christchurch-Ruby mailing list (https://groups.google.com/group/christchurch-ruby)\n\nThis is also going to be my last ChCh Ruby meetup for at least a year as I'm off travelling. So come say hello & think about putting your hand up to help run the group along with Daniel Fone and Philip Arndt. Your ruby group needs you!\n\nOkay, that's it - see you on the 19th.\n\nPatrick",
+              "dateTime": "2015-11-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Naughts and Crosses",
+              "description": "Did you know that they played Os and Xs in the days of the Roman Empire?!\n\nThis month we have a small programming challenge based on the game of Naughts and Crosses (or Tic-Tac-Toe or Terni Lapilli or whatever you want to call it). Though a truly delightful amount of math and computer science can be brought to bear on the humble 3x3 grid, this will be a straightforward challenge for Rubyists of any experience (from what's-a-gem (https://rubygems.org/) to i-can't-believe-those-incremental-GC-gains (https://engineering.heroku.com/blogs/2015-02-04-incremental-gc/)). Bring your laptop if you can, or be prepared to partner with someone who's got one.\n\nhttps://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/270px-Tic_tac_toe.svg.png\n\nAs usual, the doors will be open from 7pm for drinks and a chat, and we'll be kicking things off at 7:30pm.\n\nSee you there!",
+              "dateTime": "2015-10-15T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Raspberry Pi, SonicPi, Internet-Of-Thingsish",
+              "description": "A few years ago some academics in Cambridge were wondering why there was such a decline in computer science students. One of the things they identified was that people weren't growing up tinkering with computers. Not in the game-playing sense, but more in the programming sense. So, they designed a small cheap computer and started mass-producing it. They called it the Raspberry pi (https://www.raspberrypi.org/).\n\nFor this months meetup we'll be having talk(s) on the raspberry pi and also a hacknight with the sonic pi (http://sonic-pi.net/) project. Details are somewhat fluid at the moment, but aiming for some sort of collaborative coding / jam session! We are very open to talks if you happen to use a raspberry pi / arduino / any sort of Internet-Of-Things (IoT) talk.\n\nSo, if you like music, you want to know a little more about the Internet of Things and the Raspberry Pi, then come along to this months meetup, we'll also show you how easy it is to make a simple timelapses like this one.\n\nhttps://www.youtube.com/watch?v=yH4CL9Ox08E\n\nIf you can, please install the sonic pi (http://sonic-pi.net/) project on your laptop before coming along.\n\nSee you there :) - 7:00 for a 7:30 sharp start.",
+              "dateTime": "2015-09-17T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "This month's exciting meetup is at Thursday, 20th August and will be back at our usual location of the Catalyst office above Pomeroy's (Level 1, 284 Kilmore Street). Here's a map provided by Pomeroy's:\n\nhttp://pomspub.co.nz/contact-location\n\nDoors will open at 7PM, with talks starting at (not before) 7:30PM.\n\nAfter a quick poll in our Slack room (see http://slack.ruby.nz/ for an invitation if you're not already in our Slack) we'll be having talks with the main focus around tooling. We are looking for people to give talks so if you're interested then please let us know (or just reply here).\n\nWe have room for up to 6 lightning talks (5 to 10 min limit), or a mix of lightning + longer talks (up to 20 min). Bear in mind that the more longer talks we have, the fewer available slots there will be for lightning talks so get in fast!\n\nHere are some suggested topics:\n\npry, (pry-remote), ngrok, xray-rails, rack-mini-profiler, docker, git etc.\n\nFor anyone interested, there is usually an ad-hoc meetup for dinner at Pomeroy's downstairs, from around 6PM. There's usually a happy hour on selected drinks ending at 6PM so plan accordingly!\n\nIf anyone is particularly keen to attend this dinner, please let us know by replying and we'll try to make a reservation because it can get busy.\n\nWe hope to see you there!",
+              "dateTime": "2015-08-20T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Introduction to Ruby on Rails",
+              "description": "At this meetup we will be giving an introduction to the Ruby on Rails web framework. There will be an opportunity to play with the framework and see how cloud services can be used to deploy your app to the Internet. There will also be a very gentle introduction to Test Driven Development.\n\nPlease note the earlier start time of 6pm. This is so we can ensure everyone attending has a correct install of Ruby.\n\nEvening Flow:\n\n• Live demonstration of a basic Ruby on Rails install and deploy.\n\n• Students team up with Ruby Developers and make their own app.\n\n• Pizza! There will be pizza sponsored by Resolve Digital, please RSVP to ensure that we have the correct numbers.\n\nPrerequisites : We ask that any student attending comes with a laptop with Ruby installed. For Windows users we suggest installing from http://railsinstaller.org/en . For Mac/Linux users we suggests using https://rvm.io/ .\n\nHelp is available if you run into problems installing. Please signup and post questions to either our Google Group at : https://groups.google.com/forum/#!forum/christchurch-ruby , or you can join our IRC channel #rubynz on freenode.\n\nOne easy way to login to IRC is to go to https://kiwiirc.com/client , fill in '#rubynz' as the channel, choose a nickname, and join (screenshot attached)\n\nhttp://photos4.meetupstatic.com/photos/event/4/6/a/3/600_439278083.jpeg\n\nAnyone there should be able to help you with your install issues.\n\nFurther Information:\n\nIf you want to take things a step further on your own you can learn the basics of the language with http://mislav.uniqpath.com/poignant-guide/ (slightly crazy, but fun)\n\nIf you're on windows, you can install ansicon http://softkube.com/blog/ansi-command-line-colors-under-windows (note, install to c:\\ansicon .. not anywhere else!)\n\nOk, that's probably it, please feel free to ask any questions here or on IRC or the google group. We're really looking forward to giving you a good introduction to Rails, maybe you'll build the next AirBnb / Soundcloud / Twitter with it.. :)",
+              "dateTime": "2015-07-16T18:00+12:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Hacknight: Guess who‽",
+              "description": "This month we're having a hacknight.. not going to say too much about it now, however, as a teaser:\n\nhttp://photos1.meetupstatic.com/photos/event/a/0/7/4/600_438401076.jpeg\n\nBring your laptop if you have one, but we will probably split into teams anyway as per usual.\n\nSame details as normal, 7pm for a 7:30 (sharp) start at Pomeroys.",
+              "dateTime": "2015-06-18T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Not Ruby Ruby meetup ;)",
+              "description": "This meetup we are having lighting talks on *Non Ruby* topics. Ideally non technical talks, but we'll take anything as long as it's not Ruby (or programming specific)\n\nTalks can be anywhere between 5 and 15 mins, and should just be about something you're interested in! So, we should all learn something and certainly it'll be different.\n\nAs per usual, 7pm doors open for a 7:30 kick off.\n\nSo, come one come all, it's time for something completely different\n\nhttps://www.youtube.com/watch?v=FGK8IC-bGnU",
+              "dateTime": "2015-05-21T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Scripting Vagrant with Sumit Khanna",
+              "description": "This month we have a guest speaker. Sumit Khanna works on an open source project called vSense (https://github.com/BigSense/vSense). It's a set of ruby scripts designed to build vagrant environments for a sensor network project he's been working on called BigSense (http://bigsense.io (http://bigsense.io/)). His story…\n\nIn 2011, Sumit Khanna was an out of work software engineer living in Cincinnati, Ohio. At a friend's birthday party, he met Andrew Rettig, a Geographer who was researching sensor networks. Together they re-purposed off-the-shelf home routers with OpenWRT, an embedded Linux distribution. Several publications later, they released BigSense, a web service that stores and aggregates sensor data. It works with LtSense, a application designed to be run on embedded systems.\n\nIn this talk, Sumit will be talking about vSense, a set of ruby scripts used to build a Vagrant-based virtual environemnt used to quickly provision BigSense/LtSense services as well as test packages on various Linux distributions. vSense is intended to be used by researchers and developers, but is also used in the BigSense production environments hosted at the University of Cincinnati.",
+              "dateTime": "2015-04-16T19:00+12:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  Refactoring Techniques (lightning talks)",
+              "description": "This month we are doing lightning talks - but lightning talks around the theme of refactoring. If you don't know what refactoring is, one definition is :\n\n\"Code refactoring is the process of restructuring existing computer code – changing the factoring – without changing its external behavior.\"\n\nIf you've been a programmer for any length of time and have revisited your code, changes are you've refactored without necessarily putting a name against it. In this meetup we are going to demo as many small, or large, refactorings as we can. It can be as simple as extracting methods (or constants), conversion functions, service objects whatever. We would really like to hear from as many people as possible. Please reply on the Google Group https://groups.google.com/forum/#!forum/christchurch-ruby (https://groups.google.com/forum/#%21forum/christchurch-ruby) with what refactoring(s) you are happy to talk about, as we don't want duplicates.\n\nI cannot stress how useful a skill refactoring is to a developer. As soon as you hit legacy code (old code, generally without tests) being able to iteratively improve the codebase is crucial to not tearing all of your hair out. So come along, learn something new, or share the skills you have - it really will make your professional life more fun!\n\nSee you on Thursday 19th March at 7pm (talks will start sharp at 7:30). The usual place, Catalysts offices above Pomeroys.",
+              "dateTime": "2015-03-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Hack night: Mysterious Lines with Malc Locke",
+              "description": "This month, the masterly Malc Locke has a mustered up a mystifying enigma for us meetup members!\n\nHe has in his possession, a copious quantity of cards with curious black and white columns, presumably some kind of coded communication. The challenge, should we choose to accept it, is to decipher the strange symbols and fake a counterfeit file to fool the fancy card-reader he found!\n\nThis is a hands-on challenge that should be fun and rewarding for all levels of experience, just bring a curious cranium and a craving to crack the cryptic.\n\nAlso, BYO laptop if you've got one, otherwise I'm sure there'll be folks keen to pair.\n\nSee you there!\n\nP.S. No knowledge of Ruby is actually required, but when all you've got is a hammer… I'm sure Ruby will come in helpful. :)",
+              "dateTime": "2015-02-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "TBA. We'll update these details closer to the time. :)",
+              "dateTime": "2015-02-19T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Succeeding with Open Source — Philip Arndt, and Lightning Talks",
+              "description": "Hello fellow denizens of Rubytopia!\n\nThis month (in only 8 days in fact!) we're excited to have Phil back amongst us, after his worldwide adventure of travel and Ruby love. He'll be giving a talk on Succeeding with Open Source which — based on his rubygems.org profile (https://rubygems.org/profiles/parndt) — he seems reasonably qualified to give. With 7.5 million downloads of the 54(!) gems he has (co)authored, he's the openest, sourciest person I've had the pleasure to meet.\n\nAs is often the case, we'll have time at the end for a few 5-10 min lightning talks. I'll probably share some vaguely relevant thoughts, and I seem to recall there were some volunteers after our Christmas social too (although that might've been the fine Pomeroys ales talking). So… it'd be great to have a few others to give us a tl;dr on a topic of interest.\n\n7pm, next Thursday (15th Jan), Catalyst office\n\nAny questions, sing out. See you then!\n\nDaniel",
+              "dateTime": "2015-01-15T19:00+13:00",
+              "venue": {
+                "name": "Christchurch Office, Catalyst IT Limited",
+                "address": "Level 1, 284 Kilmore St",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Social at Pomeroys (extra, does not replace monthly meetup which is on Thurs)",
+              "description": "As per the discussion thread: https://groups.google.com/forum/#!topic/christchurch-ruby/FodgwnA8KWk\n\nIf you're keen to come or need more details, best email the list.",
+              "dateTime": "2015-01-13T16:30+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Christmas Social",
+              "description": "Come along to Pomeroys (beer garden outside, if the weather is nice) for 7pm on Thursday 18th. No talks this week, just good chats and a chance to catch up on all things Ruby, and maybe some other topics too, who knows, stranger things have happened.\n\nIn January we'll be back to talks (Philip Arndt is back in town) - and then straight on to the RailsCamp for Feb most likley.\n\nAnyway, see you at Pomeroys on the 18th :)",
+              "dateTime": "2014-12-18T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  Monsters, Prisoners & a righteous quest.",
+              "description": "Hello All,\n\nThis month we're going to enter into a realm dark with danger. There will be archers, there will be slime monsters and a righteous quest. Prisoners to be rescued too, from memory!\n\nThe aim is to work our way (in pairs) as far as we can through a fairly simple (but increasingly tricky) little coding game/challenge. Then, next year (Feb / March?) we will have a beginner themed night again, and we'll do the same challenges, but this time in a mentoring role.\n\nIf you are reading this and are new to Ruby... come along anyway it's definitely not just for advanced Rubyists, and then you can teach some people next year ;)\n\nAlso, there will be some time for lightning talks at the end of the evening.\n\nIn December it'll be a social pub evening, no brain cells required, except for engaging in stimulating conversation :)\n\nIn January, not sure yet, it'll be just before RailsCamp, so perhaps if anyone has a talk they want to practice before hand it could be an opportunity.... (please send either myself or Daniel Fone an email).\n\nRight, that's it for now, see you on the 20th at 7pm. You can post any questions here, or come join our Google Group https://groups.google.com/forum/#!topic/christchurch-ruby/wYtYUZk_35A\n\nThanks,\nChCh Ruby",
+              "dateTime": "2014-11-20T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  I feel the need, the need for speed.",
+              "description": "Hi,\n\nThis months meetup is at 7pm Thursday 16th Oct at Catalysts office above Pomeroys. The meetup is going to be code-golf, but with a twist. The twist is that instead of trying to write the solution in the minimum number of chars, you have to make the code as fast as possible. Daniel came up with the idea after being inspired by Avdi Grimm's challenge on Github ( https://gist.github.com/avdi/1b85c8673d72635cd967 )\n\nHere's how it'll work:\n\n• 20 minute primer on benchmarking and profiling in ruby\n\n• Play code-golf, but with the ~5 holes being slow (in the rough/bunker) and primed for optimisation\n\nCompete for the best improvement / fastest time / highest IPS!\n\nMany thanks to Daniel for making his code-golf server work for the profiling... and in the immortal words of Maverick & Goose : https://www.youtube.com/watch?v=fR2hajcuFEM#t=7\n\nSee you there,\nPatrick",
+              "dateTime": "2014-10-16T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup: Practical Machine Learning",
+              "description": "Hi all,\n\nFor our next meetup on Thursday 18th September (7pm, Pomeroys) we are lucky to have David Jones visiting his home town of ChCh temporarily from San Francisco. David has offered to give a talk on Practical Machine Learning:\n\nA rough outline to whet your appetite:\n\nGet a non-mathematical beginners introduction to machine learning See examples of where ML is being used today Find out how to identify where ML might be useful in your app Find out about selecting “features” for a ML problem Prediction.io (http://prediction.io/): why it’s a good solution for developers and how to use it with Ruby See results of a recent A/B test using prediction.io (http://prediction.io/) on a production application. Questions. After that we will have time for some lightning talks.. so please bring some projects or tools or something fun to share.\n\nSee you there!",
+              "dateTime": "2014-09-18T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Ben Kearns: \"Breaking Rails\"",
+              "description": "Visiting security consultant Ben Kearns will be using a typical Rails app to walk through the general process of hacking web applications and finding and exploiting bugs. He'll then present some tips on how to protect yourself when developing Rails applications.\n\nAfter the talk he and a colleague will be running a general webapp hacking lab. In terms of materials, a laptop with a working version of Java (preferably official Oracle) is all that should be needed.\n\nBen is a former Rails developer and now works as a Security Consultant for Lateral Security breaking web applications, networks and anything else he can get his hands on.\n\nNB This event is limited to 20 since there isn't heaps of desk space at Catalyst. If you end up on the wait list, feel free to come along but be aware we might not have room for everyone to work through the lab.",
+              "dateTime": "2014-08-21T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "The regular get together of the Christchurch Ruby community. Typically involves some:\n\n• Lightning talks\n\n• Live coding\n\n• Hack nights\n\n• Pizza\n\n• Beer\n\nDetails TBA.",
+              "dateTime": "2014-07-17T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Introduction to Ruby on Rails (CompSoc)",
+              "description": "At this meetup we will be giving an introduction to the Ruby on Rails web framework. There will be an opportunity to play with the framework and see how cloud services can be used to deploy your app to the Internet. There will also be a very gentle introduction to Test Driven Development.\n\nPlease note the earlier start time of 6pm. This is so we can ensure everyone attending has a correct install of Ruby.\n\nEvening Flow:\n\n• Live demonstration of a basic Ruby on Rails install and deploy.\n\n• Students team up with Ruby Developers and make their own app.\n\n• Pizza! There will be pizza sponsored by Resolve Digital, please RSVP to ensure that we have the correct numbers.\n\nPrerequisites : We ask that any student attending comes with a laptop with Ruby installed. For Windows users we suggest installing from http://railsinstaller.org/en . For MAC users we suggests using https://rvm.io/\n\nHelp is available if you run into problems installing. Please signup and post questions to either our Google Group at : https://groups.google.com/forum/#!forum/christchurch-ruby , or you can join our IRC channel #nzruby on freenode.\n\nOne easy way to login to IRC is to go to https://kiwiirc.com/client , fill in '#nzruby' as the channel, choose a nickname, and join (screenshot attached)\n\nhttp://photos3.meetupstatic.com/photos/event/9/f/e/e/600_382480942.jpeg\n\nAnyone there should be able to help you with your install issues.\n\nFurther Information:\n\nIf you want to take things a step further on your own you can learn the basics of the language with http://mislav.uniqpath.com/poignant-guide/ (slightly crazy, but fun)\n\nIf you're on windows, you can install ansicon http://softkube.com/blog/ansi-command-line-colors-under-windows (note, install to c:\\ansicon .. not anywhere else!)\n\nOk, that's probably it, please feel free to ask any questions here or on IRC or the google group. We're really looking forward to giving you a good introduction to Rails, maybe you'll build the next AirBnb / Soundcloud / Twitter with it.. :)",
+              "dateTime": "2014-07-17T18:00+12:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Tales of Technical Trickery",
+              "description": "Greetings fine citizens of the Ruby nation! tl;dr below.\n\nUpdated Speaker List:\n\nMalc Locke — 10 shell secrets that will change your life FOREVER!!!\nPete Nicholls — Ruby tricks\nDaniel Fone — HTML5 Forms: One More Strike Against The Javascript Fad\nKale Worsley — PHP*\nGraham Wagener — Freemium Tools as a Service\nSam Jarman — Uni, Students, Industry and Community\nNick Butcher — Bayes Theorem\n\n* I'm not sure if we're being trolled here or not. O_o\n\n---\n\nWe'll be meeting at 7pm on Thursday 19th June at our usual spot in Catalyst's office above Pomerorys. If you're coming early, I believe they're offering half-priced Four Avenues pints from 5–6pm, and I am currently suing them for even better terms.\n\nThere will be free beer* for anyone who wants to volunteer 5 minutes of their time to speak — beer that can be imbibed pre- or post-talk, depending on the courage of the speaker. We'd like to aim for strictly 5 minute talks, and since nothing of any importance can be said in 5 minutes, no-one needs to take themselves too seriously.\n\nSuggested subjects\n\n* The Most Pointless New Feature In Rails 4.1\n* The Greatest Gem You Never Knew Existed\n* Trolling Open Source Maintainers For Fun And Profit [bonus points for live PRs]\n* Swift® and the Future of Web Development\n\nIf you find yourself inspired by these or other topics (and we'd really love to hear you speak!) just hit reply and let us know.\n\ntl;dr Thu 19th. 7pm. Above Pomeroy's. 5 minute talks. Please give a talk.\n\nThanks!\n\nDaniel\n\n* Or an equivalent beverage of your choice",
+              "dateTime": "2014-06-19T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Docker, VPS in the Cloud, Chef, WellRailed",
+              "description": "Very short notice for this (ad hoc) meetup tonight at 17:30pm\n\nThe Wellington ruby group are having a meetup on running your own VPS (your own server in the cloud). They'll be discussing Docker, Chef for provisioning, automated tools like cloud66 I believe and probably a few other things.\n\nWe're not quite sure what sort of video link we're going to have - possibly a google hangout - and certainly a DoubleRobot if all else fails. So the video quality may not be perfect, but the content should more than make up for it!\n\nCome down to the Resolve Digital offices anytime from 17:30 (the WellRailed meetup will start at 6pm).",
+              "dateTime": "2014-06-04T17:30+12:00",
+              "venue": {
+                "name": "Resolve Digital Ltd Office",
+                "address": "Unit 6, 77 Gloucester Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Meteor showers, lightning strikes, and meetup structure",
+              "description": "Hi All,\n\nThis months meetup will be on Thursday 15th May at the regular venue of Catalysts offices above Pomeroys Pub. There will be two parts to the evening.\n\nFirstly: Talks\n\nWhile not strictly Ruby (well, ok, at all) Nick Butcher is going to give a quick introduction to meteor.js - an up and coming web framework that allows for some pretty incredible apps to be built extremely rapidly. Meteor, while not Ruby is definitely worth a look to see what else is out there, even if DHH thinks Turbolinks is all you need ;) (/me runs for cover!) .. I'm going to do a lightning talk on a couple of tools I've started using since reading the Pragmatic Thinking and Learning book, and there's definitely space for another short to medium sized talk - please contact me if you're keen to talk.\n\nSecondly: Meetup Structure\n\nDaniel Fone and I have been talking about adding a little more structure to the meetups, probably putting out a schedule of upcoming meetups (e.g. this month it's talks, next month it's live coding etc. etc.). This means we can all have visibility over what's next, and hopefully give everyone time to contribute a talk / an idea for a hack night etc. To that end we have this short 5 question survey monkey form:\n\nhttps://www.surveymonkey.com/s/2DZ5FCJ\n\nThe survey is anonymous and only takes about 1-2 minutes to fill in. We'd really appreciate it if as many people as possible can fill it in before the meetup so that we can then discuss the outcomes of the survey during the second half of the evening. The more involvement and contributions we can get the better it'll be for everyone.\n\nAs always, come discuss the above or anything else on our google group\n\nhttps://groups.google.com/forum/#!topic/christchurch-ruby/lXuRuqzk1FE",
+              "dateTime": "2014-05-15T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Tanks! Guns!  - Come shoot a fellow rubyist",
+              "description": "Have you ever wanted to get into a virtual tank and zoom around the place shooting other tanks? If the answer is \"Yes\", or \"Maybe\" then this months meetup is for you. You'll get to program a robot and then pit it against your fellow competitors in a battle to destruction.\n\nSo write your def crazy_ivan and def bezerker and all the rest. It'll be fun. It'll be real. It'll be really fun.\n\nAnyway, see you there.. screenshot attached to whet your appetite!\n\nhttp://photos3.meetupstatic.com/photos/event/9/e/1/8/600_348400472.jpeg\n\nDiscussion etc. on the ruby google group as per usual\n\nhttps://groups.google.com/forum/#!forum/christchurch-ruby",
+              "dateTime": "2014-04-17T19:00+12:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Code Golf - Monthly Meeting",
+              "description": "Hi All,\n\nThe next Christchurch Ruby meetup is Thursday 20th March, 7pm, at Catalyst (above Pomeroys).\n\nHave you ever played code golf? Do you know what code golf is? If not - this meetup is the one for you.\n\nThe idea with code golf is to take an algorithm and rewrite it into the shortest amount of code possible. It doesn't make for the most readable code, but it's heaps of fun and you get to find out what ARGV.each will do, or $_ etc. Well, you find out if you want to get a good score ;)\n\nFor Railscamp, Daniel Fone made a golfing server. Everyone cloned the repo, and as you pushed up your answer to the problem, the tests would automatically run and your score was published to the leaderboard. Daniel is going to do a talk showing how it was put together, and then there'll be a 19th hole for everyone to work on (work in groups, singly, whatever works, there'll be experienced people to pair with if you've not used Ruby before).\n\nAnyway, lots of fun, see you there.\n\nMore details on our google group:\n\nhttps://groups.google.com/forum/#!topic/christchurch-ruby/O9WWMiSMPvo",
+              "dateTime": "2014-03-20T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meeting - Videos and General Chitchat",
+              "description": "This month we are moving back to Catalyst for our meeting. We will watch a video or two. Please feel free to send suggestions.\n\nMeeting is open to all comers as usual, beginner or expert. See you all there :)",
+              "dateTime": "2014-02-20T19:00+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Christmas Social",
+              "description": "Come to Pomeroys on Thursday for a social meetup before the holiday season is upon us. We'll be there from 17:30 ish.",
+              "dateTime": "2013-12-19T17:30+13:00",
+              "venue": {
+                "name": "Pomeroys",
+                "address": "292 Kilmore Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Lightning Talks (short talks on a bunch of subjects)",
+              "description": "This month we have lightning talks. The floor is open for anyone to give a brief (5 - 10 mins) talk about anything you think may be of interest to the group. Quantity is preferable over quality (although both is ideal), we'd rather have a whole heap of loose show and tell style presentations than a few well prepared ones. So now is the time for all you lurkers to raise your hands!\n\nIf you'd like to present please comment here and / or send a pull request with your talk details to https://github.com/nzruby/talks\n\nIf you wish to use slides or give a live demo, please ensure you can present either VGA or a standard HDMI socket to the projector.",
+              "dateTime": "2013-11-21T19:00+13:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Newbies Night - come for an introduction to Ruby on Rails",
+              "description": "We'll be having a set of short talks on various subjects, followed by an 'Installfest' where members of the group will be available to help you install Ruby / Rails on your machines.\n\nThe focus will be on beginner programmers, and those with experience in other languages who are interested in learning more about Ruby.\n\nNow for the audience participation part!\n\n• If there is a particular subject you are interested in hearing more about, please let us know. We'll try and ensure any requested topics are covered as a priority.\n\n• If you're willing to give a short talk (around 10 minutes) on the night, please let us know.\n\nWe already have a couple of speakers lined up, but need more, don't be shy!",
+              "dateTime": "2013-10-17T19:00+13:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup:  *Middleman* and *Solving Imaginary Problems*",
+              "description": "",
+              "dateTime": "2013-09-19T19:00+12:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          },
+          {
+            "node": {
+              "title": "Monthly Meetup",
+              "description": "Tim Carey-Smith will be presenting a talk \"Acting in the real world\".",
+              "dateTime": "2013-08-15T19:00+12:00",
+              "venue": {
+                "name": "Trineo",
+                "address": "12 Pope Street",
+                "city": "Christchurch"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
