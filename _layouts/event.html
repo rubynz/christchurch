@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h2>
+  <span class="date">{{ page.date | date: "%b %-d, %Y" }}</span>
+  {{ page.title }}
+</h2>
+
+<div class="time">
+  {{ page.time }}
+  &middot;
+  <a href="https://google.com/maps/search/{{ page.location }}" target="_blank">{{ page.location }}</a>
+</div>
+
+{{ content }}
+
+<footer>
+{% include about.html %}
+</footer>
