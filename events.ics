@@ -1,0 +1,32 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://christchurch.ruby.nz/
+METHOD:PUBLISH
+{%- assign recent_events = site.events | reverse | slice: 0, 6 -%}
+{%- for event in recent_events reversed %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}@christchurch.ruby.nz
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S" }}
+ORGANIZER;CN="Christchurch Ruby Team":MAILTO:christchurch@ruby.nz
+LOCATION:{{ event.location }}
+SUMMARY:[chch-ruby] {{ event.title | remove: ',' | remove: ';' }}
+CLASS:PUBLIC
+DTSTART:{{ event.date | date: "%Y%m%d" }}T{{ event.time | date: "%H%M%S" }}
+DTDURATION:PT2H
+END:VEVENT
+{%- endfor %}
+{%- assign last_scheduled_event = recent_events | first %}
+BEGIN:VEVENT
+UID:future-meetups@christchurch.ruby.nz
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S" }}
+DTSTART:{{ last_scheduled_event.date | date: "%Y%m%d" }}T193000
+DTDURATION:PT2H
+RRULE:FREQ=MONTHLY;BYDAY=3TH
+SUMMARY:Christchurch Ruby Meetup
+DESCRIPTION:Monthly meetup. Details TBA. Time and location are typical\, but may change for a specific meetup
+LOCATION:Saltworks\, 4 Ash Street\, Christchurch
+END:VEVENT
+END:VCALENDAR
