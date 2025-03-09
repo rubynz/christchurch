@@ -1,4 +1,4 @@
-# The Christchurch Ruby website!
+# [The Christchurch Ruby](https://christchurch.ruby.nz/) website!
 
 This is designed to run on GitHub Pages, using Jekyll. It's a static site, so no
 server-side processing is possible.
