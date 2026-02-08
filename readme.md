@@ -7,11 +7,11 @@ The guiding principle is *simplicity*. At time of writing, I have implemented:
 
 - A home page with a brief description of the group and a list of all the meetups.
 - A page for each meetup, with a description of the event.
+- A [ICS feed] for scheduled meetups and future meetup dates.
 
 Things I almost implemented but thought better of:
 
 - A way to see future meetup dates
-- A [ICS feed] for scheduled meetups and future meetup dates.
 - An RSS feed for events.
 - Event metadata like host, speaker, etc, including cute avatars from Gravatar or GitHub.
 - A map of the meetup location.
