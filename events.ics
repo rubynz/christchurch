@@ -42,6 +42,9 @@ DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S" }}
 DURATION:PT2H
 DTSTART;TZID=Pacific/Auckland:{{ last_scheduled_event.date | date: "%Y%m%d" }}T193000
 RRULE:FREQ=MONTHLY;BYDAY=3TH
+{%- for event in recent_events %}
+EXDATE;TZID=Pacific/Auckland:{{ event.date | date: "%Y%m%d" }}T193000
+{%- endfor %}
 SUMMARY:Christchurch Ruby Meetup
 DESCRIPTION:Monthly meetup. Details TBA. Time and location are typical\, but may change for a specific meetup
 LOCATION:Saltworks\, 4 Ash Street\, Christchurch
