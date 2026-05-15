@@ -14,7 +14,7 @@ ORGANIZER;CN="Christchurch Ruby Team":MAILTO:christchurch@ruby.nz
 LOCATION:{{ event.location }}
 SUMMARY:[chch-ruby] {{ event.title | remove: ',' | remove: ';' }}
 CLASS:PUBLIC
-DTDURATION:PT2H
+DURATION:PT2H
 DTSTART;TZID=Pacific/Auckland:{{ event.date | date: "%Y%m%d" }}T{{ event.time | date: "%H%M%S" }}
 END:VEVENT
 {%- endfor %}
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:future-meetups@christchurch.ruby.nz
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%S" }}
-DTDURATION:PT2H
+DURATION:PT2H
 DTSTART;TZID=Pacific/Auckland:{{ last_scheduled_event.date | date: "%Y%m%d" }}T193000
 RRULE:FREQ=MONTHLY;BYDAY=3TH
 SUMMARY:Christchurch Ruby Meetup
